@@ -1,0 +1,6 @@
+Flask
+PyJWT
+Werkzeug
+Faker
+requests
+python-dotenv
